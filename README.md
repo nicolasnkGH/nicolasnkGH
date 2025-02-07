@@ -43,7 +43,7 @@ I am a dedicated System Engineer with extensive IT experience specializing in sy
 
 ## 🌍 **Languages**
 
-- **English** – Professional Fluency
+- **English** – Native/Near-native
 - **Portuguese** – Native/Near-native
 - **Spanish** – Proficient/Professional
 
