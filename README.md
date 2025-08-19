@@ -36,9 +36,10 @@ I am a dedicated System Engineer with extensive IT experience specializing in sy
 
 ## 🎓 **Education**
 
-- **Master of Science, Software Engineering - DevOps Engineering | August 2025 - June 2026
+- **Master of Science, Software Engineering - DevOps Engineering**, Western Governors University | August 2025 - June 2026
 
 - **Bachelor of Science in Computer Science**, University of the People | August 2024
+
 - **Associate's Degree in Computer Science**, University of the People | November 2022
 
 ---
