@@ -1,46 +1,71 @@
 ## Hi there 👋
 
-# 🚀 **System Engineer** | Cloud & Infrastructure Specialist | DevOps Enthusiast
+# 🚀 Systems & Platform Engineer | Cloud, Data & AI Infrastructure
 
-Experienced System Engineer with a proven track record of leading multi-million dollar infrastructure projects. My expertise lies in systems administration, infrastructure automation, and cloud migration, including successfully leading a $30 million infrastructure project for United Airlines and a critical AWS migration for Delta Airlines.
+Results-driven System Engineer with a proven track record of leading multi-million dollar infrastructure projects. Expertise in systems administration, infrastructure automation, and cloud migration, including architecting and directing a **$30 million infrastructure program for United Airlines** and a critical **AWS migration for Delta Airlines**.
 
 ---
 
 ## 🛠️ **Technical Area Expertise**
 
-### **DevOps, Cloud, & System Administration & Virtualization:**
-- Experience with **CI/CD pipelines** (e.g., Azure DevOps Services)
-- **Infrastructure as code (IaC)** implementation
-- **Containerization** (Kubernetes)
-- **Cloud computing** (Azure, AWS) for infrastructure management, resource provisioning, and cloud migration strategies
-- Proficient in managing **Linux**, **Windows**, and virtualized environments (VMware, Proxmox, Microsoft Hyper-V)
-- **Scripting** (PowerShell, Ansible, Bash) for automation tasks
 
-### **Security & System Integration:**
-- Implemented **Single Sign-On (SSO)** solutions and managed **SSL certificates**
-- Successfully integrated various systems (e.g., **AODB**, **airport management**, **SIEM**)
-- Working knowledge of **Identity Access Management** systems (e.g., **Keycloak**)
+### 🏗️ Platform Engineering & AI Infrastructure
 
-### **Network Infrastructure:**
-- Designed, implemented, and maintained secure network configurations (**firewalls**, **ACLs**, **VLANs**)
-- Performed network troubleshooting (**ping**, **traceroute**, **nslookup**, **port scanning**)
-- Leveraged **SSH** and **Telnet** for remote access and troubleshooting
-- Collaborated with network security teams for **SIEM integration**
-
-### **Programming Languages:**
-- Proficient in Python, PowerShell, and Bash scripting for automating system administration tasks and streamlining workflows. My proficiency extends to personal projects on GitHub, where I've demonstrated applied programming concepts in languages such as Java, C#, SQL, and JavaScript. (e.g., **Python**, **Java**, **C#**, **SQL**, **JavaScript**, **C++**)
-- Developed problem-solving skills through **programming concepts** applied in projects
-- Expanded programming knowledge through **university courses** and **online learning platforms**
+- **AI Infrastructure**: Architecting self-hosted inference platforms utilizing GPU acceleration and containerized model serving for AI workloads.
+- **Orchestration**: Advanced deployment of Kubernetes (k8s) for both stateless services and data-intensive workloads.
+- **Observability**: Engineering comprehensive monitoring stacks with Zabbix and Grafana to track hardware health, system latency, and resource utilization.
 
 ---
 
-## 🎓 **Education**
+### **🤖 DevOps & Automation:**
 
-- **Master of Science, Software Engineering - DevOps Engineering**, Western Governors University | August 2025 - June 2026
+- **CI/CD**: Designing robust pipelines in Azure DevOps and GitHub Actions for automated testing and zero-downtime deployments.
+- **IaC**: Implementing Infrastructure as Code via Terraform and Ansible to ensure reproducible environments across AWS, Azure, and on-premise.
+- **Virtualization**: Managing high-availability clusters on Proxmox, VMware, and Hyper-V.
 
-- **Bachelor of Science in Computer Science**, University of the People | August 2024
+### **🛡️ Security & Scalable Systems:**
 
-- **Associate's Degree in Computer Science**, University of the People | November 2022
+- **Infrastructure Lead**: Directed a $30M program for United Airlines and a mission-critical AWS migration for Delta Airlines.
+- **Identity & Security**: Strengthening security posture through IAM, SSO (Keycloak), and SSL/TLS certificate management.
+- **Network Engineering**: Configuring secure hybrid-cloud connectivity using firewalls, VPNs, and VLAN segmentation.
+
+---
+
+## **📂 Featured Projects:**
+
+### [ai-stack](https://github.com/nicolasnkGH/ai-stack) | Personal AI Infrastructure
+
+A self-hosted, containerized inference platform designed for operating and evaluating AI workloads in a controlled environment.
+
+- Stack: Docker, Proxmox, NVIDIA GPU Passthrough.
+
+- Focus: Balancing inference latency with model quantization and hardware resource management.
+
+### [proxmox-automation](https://github.com/nicolasnkGH/proxmox-automation) | Infrastructure as Code (IaC)
+
+Automation framework for deploying and managing virtualized environments at scale.
+
+- **Automation**: Streamlining the provisioning of Linux/Windows nodes, which serves as the foundation for the ai-stack.
+
+- **Reliability**: Implements best practices for high-availability clusters and resource management.
+
+---
+
+## 💻 **Programming & Data:**
+
+- **Primary Languages**: Python (Advanced scripting and automation), **PowerShell**, **Bash**.
+- **Application Development**: Proficient in **Java, C#, C++, and JavaScript** for building and maintaining distributed services.
+- **Data Handling**: SQL for database management and real-time analytics-ready dataset integration.
+- **Software Engineering**: Strong foundation in testing, version control (Git), and code review best practices.
+
+---
+
+## 🎓 ** Growth & Education**
+
+- **Master of Science, Software Engineering - DevOps Engineering**, Western Governors University | Graduation Expected June 2026
+    - Focus: Scaling distributed systems and cloud-native architecture.
+
+- **Bachelor of Science in Computer Science**, University of the People
 
 ---
 
@@ -60,5 +85,5 @@ Experienced System Engineer with a proven track record of leading multi-million 
 
 ---
 
-Feel free to check out my repositories, and feel free to reach out for collaboration or consultation opportunities! 📫
+Feel free to check out my repositories, and don’t hesitate to reach out to discuss collaboration opportunities.
 
