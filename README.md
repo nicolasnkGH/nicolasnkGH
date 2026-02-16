@@ -60,7 +60,7 @@ Automation framework for deploying and managing virtualized environments at scal
 
 ---
 
-## 🎓 ** Growth & Education**
+## 🎓 **Growth & Education:**
 
 - **Master of Science, Software Engineering - DevOps Engineering**, Western Governors University | Graduation Expected June 2026
     - Focus: Scaling distributed systems and cloud-native architecture.
