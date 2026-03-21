@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nicolasnkGH/nicolasnkGH/main/profile-header.png" alt="Nicolas Teixeira Profile Banner" width="100%" />
-
 # Nicolas Teixeira
 
 ## 🎓 Master's Candidate | SWE & DevOps Engineer | Systems Engineer @ ADB Safegate
