@@ -183,16 +183,12 @@ University of the People | *Completed*
 
 ---
 
-## 🏅 Certifications
+## 📜 Courses & Training
 
-| Certification | Organization | Date |
-|---------------|--------------|------|
-| **CKA** (Certified Kubernetes Administrator) | CNCF | Active |
-| **AWS Certified Solutions Architect** | AWS | Active |
-| **Terraform Associate** | HashiCorp | Active |
-| Introduction to Cybersecurity | Cisco NetAcad | Feb 2023 |
-| Cybersecurity for Business | Cisco NetAcad | Mar 2023 |
+| Course | Organization | Date |
+|--------|--------------|------|
 | CS50: Introduction to Computer Science | Harvard | Dec 2021 |
+| Cisco Cybersecurity Essentials | Cisco NetAcad | Feb-Mar 2023 |
 
 ---
 
