@@ -14,7 +14,6 @@
 
 Architecting and delivering mission-critical cloud infrastructure, from directing a **$30M United Airlines infrastructure program** to leading AWS migrations for Delta Airlines. Passionate about building scalable, observable, and secure systems that power the next generation of AI and enterprise applications.
 
----
 
 </div>
 
@@ -195,7 +194,7 @@ University of the People | *Completed*
 <div align="left">
 
 - **GitHub:** [@nicolasnkGH](https://github.com/nicolasnkGH) (👤 **14 repos** · **6.5K+ contributors**)
-- **Email:** nicolas@adb-safegate.com
+- **Email:** careers@nick-t.net
 - **LinkedIn:** [View Profile](https://linkedin.com/in/nicolasdealmeidateixeira)
 
 ---
