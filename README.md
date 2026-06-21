@@ -55,6 +55,20 @@ Architecting and delivering mission-critical cloud infrastructure, from directin
 
 <div align="left">
 
+### [✨ stargazer](https://github.com/nicolasnkGH/stargazer) | Personal Observatory Dashboard
+
+A local-first, privacy-focused stargazing dashboard featuring real-time AI weather analysis, a WebGL 3D moon, D3.js interactive planetarium, and NASA asteroid tracking.
+
+**Tech Stack:** Python · FastAPI · Vanilla JS · HTML/CSS · Qwen3.5-9B
+
+**Key Features:**
+- Real-time LLM-driven atmospheric seeing forecasts and target recommendations.
+- Interactive D3.js celestial map with dynamic SIMBAD star data queries.
+- NASA NeoWs integration for tracking Near-Earth Objects passing by Earth.
+- Comprehensive observation logs with Aladin Lite FOV simulation.
+
+---
+
 ### [🤖 ai-stack](https://github.com/nicolasnkGH/ai-stack) | Personal AI Infrastructure Platform
 
 A self-hosted, containerized platform for operating and evaluating AI workloads with GPU acceleration.
