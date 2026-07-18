@@ -1,19 +1,22 @@
 <div align="center">
 
-# Nicolas Teixeira
+# Nicolas Teixeira 🚀
 
-## 🎓 Master's Candidate | SWE & DevOps Engineer | Systems Engineer @ ADB Safegate
+### Master's Candidate | SWE & DevOps Engineer | Systems Engineer @ ADB Safegate
 
-[![Location](https://img.shields.io/badge/Location-Columbus%2C%20OH-3498db)](https://maps.google.com)
-[![Email](https://img.shields.io/badge/Contact-Email-blue)](mailto:nicolas@adb-safegate.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Nicolas%20Teixeira-58a6ff)](https://nicolasnkGH.github.io/portfolio)
+[![Location](https://img.shields.io/badge/Location-Columbus%2C%20OH-3498db?style=flat-square&logo=google-maps)](https://maps.google.com)
+[![Email](https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail)](mailto:careers@nick-t.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nicolas%20Teixeira-58a6ff?style=flat-square&logo=githubpages)](https://nicolasnkGH.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Teixeira-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicolasdealmeidateixeira)
+
+<!-- Typing Effect Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Master's+Candidate+in+SWE+-+DevOps;Systems+Engineer+@+ADB+Safegate;Managing+$30M%2B+Infrastructure+Programs;Cloud+%26+Automation+Expert" alt="Typing SVG" />
 
 ---
 
-### 🚀 Leading infrastructure projects worth $30M+ | AI/ML Infrastructure Specialist | Cloud & Automation Expert
+### Leading Infrastructure Projects Worth $30M+ | AI/ML Platform Specialist
 
 Architecting and delivering mission-critical cloud infrastructure, from directing a **$30M United Airlines infrastructure program** to leading AWS migrations for Delta Airlines. Passionate about building scalable, observable, and secure systems that power the next generation of AI and enterprise applications.
-
 
 </div>
 
@@ -22,197 +25,114 @@ Architecting and delivering mission-critical cloud infrastructure, from directin
 ## 🛠️ Technical Expertise
 
 ### 🤖 AI/ML Infrastructure & Platform Engineering
+* **GPU Virtualization & Passthrough:** Proxmox GPU passthrough and vGPU configuration for hardware acceleration.
+* **AI Inference Systems:** Self-hosted GPU-accelerated LLM inference platforms (using `llama.cpp` and optimized quantized models).
+* **Container Orchestration:** Deploying high-performance Kubernetes nodes for stateless services and data-intensive workloads.
+* **Full Observability:** Real-time metrics collection and dashboards (Prometheus, Grafana, Zabbix) for hardware health, latency, and throughput.
 
-| Area | Description |
-|------|-------------|
-| **AI Inference** | Self-hosted GPU-accelerated LLM platforms (llama.cpp, Qwen models) with Docker & NVIDIA CUDA |
-| **Container Orchestration** | Kubernetes deployment for stateless services and data-intensive workloads |
-| **Model Quantization** | Optimizing inference latency through quantization techniques while preserving accuracy |
-| **GPU Virtualization** | Proxmox GPU passthrough and vGPU configuration for AI workloads |
-| **Observability** | Prometheus, Grafana, Zabbix for hardware health, latency, and resource monitoring |
+### ⚙️ DevOps & Cloud Automation
+* **Infrastructure as Code (IaC):** Writing modular, reusable Terraform modules and Ansible playbooks.
+* **CI/CD Pipelines:** Automated deployments, automated testing, and zero-downtime release workflows using GitHub Actions and Azure DevOps.
+* **Virtualization Clusters:** Multi-node high-availability Proxmox VE clustering, LXC containerization, and custom storage setups (ZFS).
 
-### ⚙️ DevOps & Infrastructure Automation
-
-| Area | Description |
-|------|-------------|
-| **CI/CD Pipelines** | Azure DevOps & GitHub Actions for automated testing and zero-downtime deployments |
-| **IaC** | Terraform & Ansible for reproducible environments across AWS, Azure, and on-premise |
-| **Virtualization** | High-availability Proxmox clusters with LXC containers and VM management |
-| **HCL Automation** | HashiCorp Configuration Language for infrastructure provisioning |
-
-### 🛡️ Security & Network Engineering
-
-| Area | Description |
-|------|-------------|
-| **Identity & Access** | IAM, SSO (Keycloak), MFA, and SSL/TLS certificate management |
-| **Network Architecture** | Hybrid-cloud connectivity via firewalls, VPNs, VLAN segmentation |
-| **Content Filtering** | Technitium DNS with split-horizon configuration and ad/tracker blocking |
-| **Zero Trust** | Cloudflare Warp Gateway and Tailscale for secure remote access |
+### 🛡️ Network Engineering & Zero Trust
+* **Enterprise Networking:** Hybrid-cloud architectures, firewalls, VLAN segmentation, and UniFi deployment.
+* **Secure Remote Access:** Zero Trust networks configured via Cloudflare Tunnel, WARP Gateway, and Tailscale.
+* **Modern DNS Infrastructure:** High-availability Technitium DNS clusters with split-horizon configurations and automated DNS-level ad blocking.
 
 ---
 
 ## 📂 Featured Projects
 
-<div align="left">
+### 🔭 [StarGazer](https://github.com/nicolasnkGH/stargazer) | Personal Observatory Dashboard
+*A serverless stargazing dashboard and weather evaluator for amateur astronomers.*
+* **Tech Stack:** Python (FastAPI) · Three.js (3D Moon & planet models) · D3-Celestial (Star Charts) · Google Gemini 2.5 Flash API · Cloudflare Pages · Google Cloud Run.
+* **Features:** Dynamic light pollution filtering (Bortle Class), real-time AI weather evaluation, Aladin Lite FOV simulator, and native PWA push notifications.
 
-### [✨ stargazer](https://github.com/nicolasnkGH/stargazer) | Personal Observatory Dashboard
+### 🤖 [AI Stack](https://github.com/nicolasnkGH/ai-stack) | Personal AI Infrastructure Platform
+*A self-hosted, containerized platform for operating and evaluating GPU-accelerated AI workloads.*
+* **Tech Stack:** Docker · Proxmox VE · NVIDIA CUDA · llama.cpp · ZFS.
+* **Features:** Quantization latency evaluation, containerized model registry, and unified GPU performance dashboards.
 
-A local-first, privacy-focused stargazing dashboard featuring real-time AI weather analysis, a WebGL 3D moon, D3.js interactive planetarium, and NASA asteroid tracking.
+### 🏗️ [Proxmox Automation](https://github.com/nicolasnkGH/proxmox-automation) | HA Cluster IaC Framework
+*HCL-based automation templates for deploying Proxmox virtualized infrastructure at scale.*
+* **Tech Stack:** HCL (Terraform) · Ansible · PowerShell · Docker Compose.
+* **Features:** Automated provisioning of clustered virtual environments, storage configs, and deployment configs.
 
-**Tech Stack:** Python · FastAPI · Vanilla JS · HTML/CSS · Qwen3.5-9B
-
-**Key Features:**
-- Real-time LLM-driven atmospheric seeing forecasts and target recommendations.
-- Interactive D3.js celestial map with dynamic SIMBAD star data queries.
-- NASA NeoWs integration for tracking Near-Earth Objects passing by Earth.
-- Comprehensive observation logs with Aladin Lite FOV simulation.
-
----
-
-### [🤖 ai-stack](https://github.com/nicolasnkGH/ai-stack) | Personal AI Infrastructure Platform
-
-A self-hosted, containerized platform for operating and evaluating AI workloads with GPU acceleration.
-
-**Tech Stack:** Docker · Proxmox · NVIDIA CUDA · llama.cpp · ZFS
-
-**Key Features:**
-- GPU-accelerated LLM inference serving multiple quantized models simultaneously
-- Model quantization optimization balancing latency vs. accuracy
-- Containerized model management with version control and rollback capabilities
-- Comprehensive monitoring for GPU utilization, memory, and inference metrics
+### 🌐 [Home Lab Setup](https://github.com/nicolasnkGH/home-networking-setup) | Enterprise-Grade Home Network
+*Production-grade hybrid home networking simulating enterprise-scale traffic.*
+* **Tech Stack:** Proxmox VE · UniFi · Technitium DNS · Cloudflare Tunnel · Apache Guacamole.
+* **Features:** Split-horizon DNS, centralized SSL management via Nginx Proxy Manager, and private access tunnels.
 
 ---
 
-### [🏗️ proxmox-automation](https://github.com/nicolasnkGH/proxmox-automation) | Infrastructure as Code Framework
+## 💻 Tech Stack & Tools
 
-HCL-based automation framework for deploying Proxmox virtualized environments at scale.
+<div align="center">
 
-**Tech Stack:** HCL · PowerShell · Ansible · Docker Compose
-
-**Key Features:**
-- Automated provisioning of Linux/Windows VMs and LXC containers
-- Cluster-wide resource management and high-availability configuration
-- Reproducible infrastructure deployments via version-controlled code
-- Foundation infrastructure for ai-stack and other AI workloads
-
----
-
-### [🌐 home-networking-setup](https://github.com/nicolasnkGH/home-networking-setup) | Enterprise-Grade Home Lab Infrastructure
-
-Production-grade networking lab simulating enterprise environments with VLANs, firewalls, and automated services.
-
-**Tech Stack:** Proxmox · UniFi · Technitium DNS · Guacamole · Docker · Cloudflare WARP
-
-**Key Features:**
-- Split-horizon DNS with internal FQDN management (`*.yourdomain.com`)
-- nginx proxy manager (NPM) for centralized SSL certificate management
-- Cloudflare Warp Gateway and Guacamole for secure remote access
-- Redundant Technitium DNS instances with zone synchronization
-
----
-
-### [📊 monitoring-stack](https://github.com/nicolasnkGH/monitoring-stack) | Observability Platform
-
-Full observability stack deployment with Prometheus, Grafana, and Alertmanager.
-
-**Tech Stack:** Prometheus · Grafana · Alertmanager · Node Exporter · Docker
-
-**Key Features:**
-- Centralized monitoring and visualization for infrastructure and applications
-- Custom dashboards for hardware health, system latency, and resource utilization
-- Alerting rules for proactive issue detection and incident response
-
----
-
-### [🔧 powershell-Scripting](https://github.com/nicolasnkGH/powershell-Scripting) | Azure IaC Automation
-
-Infrastructure as Code automation with PowerShell and GitHub Actions for Azure VM provisioning.
-
-**Tech Stack:** PowerShell · GitHub Actions · Azure CLI · Terraform
-
-**Key Features:**
-- Automated Azure resource group and VM provisioning pipelines
-- Infrastructure lifecycle management via CI/CD workflows
-- Script templates for common enterprise automation patterns
-
----
-
-### [📁 dev-journey-archive](https://github.com/nicolasnkGH/dev-journey-archive) | Learning Journey Archive (2018-2025)
-
-A historical record of my developer learning journey, documenting progression from beginner projects to professional-grade infrastructure work.
-
-**Tech Stack:** Python · Java · Flask · Socket Programming
+| Category | Badges / Tools |
+| :--- | :--- |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57020?style=flat-square&logo=proxmox&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0F0F?style=flat-square&logo=ansible&logoColor=white) ![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=hashicorp&logoColor=white) |
+| **Automation & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Observability & Net** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 
 </div>
 
 ---
 
-## 💻 Programming & Tools
+## 📊 GitHub Performance
 
-### Languages
-| **Primary** | **Secondary** | **Familiar** |
-|-------------|---------------|--------------|
-| 🐍 Python (Advanced) | 💠 PowerShell | ⚡ Bash/Shell |
-| 🔷 Java | 🦀 C# | 🌐 JavaScript/TypeScript |
-| ☕ C++ | 📊 SQL | 🎯 C |
-
-### Tools & Technologies
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Cloud Platforms: AWS · Azure · GCP                                  │
-│  Containerization: Docker · Kubernetes · Proxmox · LXC              │
-│  IaC: Terraform · Ansible · HCL                                      │
-│  CI/CD: GitHub Actions · Azure DevOps                                │
-│  Monitoring: Prometheus · Grafana · Zabbix                           │
-│  Networking: UniFi · Cloudflare · Technitium DNS                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasnkGH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nicolas's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnkGH&layout=compact&theme=tokyonight&hide=html,css" alt="Nicolas's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasnkGH&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+</div>
 
 ---
 
 ## 🎓 Education
 
-### **Master of Science, Software Engineering - DevOps Engineering**
-Western Governors University | *Graduation Expected June 2026*
-- Focus: Scaling distributed systems and cloud-native architecture
-- Relevant Coursework: Distributed Systems, Cloud Security, Infrastructure Automation
-
-### **Bachelor of Science in Computer Science**
-University of the People | *Completed*
-- Focus: Software development, algorithms, data structures
+* **M.S. in Software Engineering - DevOps Engineering**
+  * *Western Governors University* | *Expected Graduation: June 2026*
+  * *Focus:* Scaling distributed systems, cloud security, Infrastructure as Code, and virtualization platforms.
+* **B.S. in Computer Science**
+  * *University of the People* | *Completed*
 
 ---
 
 ## 🌍 Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| English | 🏆 Native/Near-native |
-| Portuguese | 🏆 Native/Near-native |
-| Spanish | 💼 Professional working proficiency |
+* **English:** Native / Bilingual Proficiency
+* **Portuguese:** Native / Bilingual Proficiency
+* **Spanish:** Professional Working Proficiency
 
 ---
 
-## 📜 Courses & Training
+## 📬 Connect with Me
 
-| Course | Organization | Date |
-|--------|--------------|------|
-| CS50: Introduction to Computer Science | Harvard | Dec 2021 |
-| Cisco Cybersecurity Essentials | Cisco NetAcad | Feb-Mar 2023 |
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasdealmeidateixeira)
+[![Email](https://img.shields.io/badge/careers@nick--t.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@nick-t.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://nicolasnkGH.github.io/portfolio)
 
-## 📫 Connect
-
-<div align="left">
-
-- **GitHub:** [@nicolasnkGH](https://github.com/nicolasnkGH) (👤 **14 repos** · **6.5K+ contributors**)
-- **Email:** careers@nick-t.net
-- **LinkedIn:** [View Profile](https://linkedin.com/in/nicolasdealmeidateixeira)
+</div>
 
 ---
-
-*Built with ❤️ using GitHub Pages & custom CSS theme inspired by GitHub Dark*
-
+<div align="center">
+  <img src="https://komarev.com/ghvc/?username=nicolasnkGH&label=Profile%20Views&color=4285F4&style=flat-square" alt="Visitor Count" />
 </div>
