@@ -11,7 +11,7 @@
 [![Masters](https://img.shields.io/badge/M.S.%20Degree-Software%20Engineering%20%26%20DevOps-27ae60?style=flat-square)](https://www.wgu.edu)
 
 <!-- Typing Effect Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=700&lines=5%2B+Years+Enterprise+Cloud+Infrastructure;Kubernetes+%7C+AWS+%7C+Azure+%7C+AI%2FML+Ops;Multi-Cluster+AI+Inference+%7C+Hermes+Orchestration;Leading+%2430M%2B+Programs+for+Delta+%26+United" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=700&lines=5%2B+Years+Enterprise+Cloud+Infrastructure;Kubernetes+%7C+AWS+%7C+Azure+%7C+AI%2FML+Ops;Multi-Cluster+AI+Inference+Architecture;Leading+%2430M%2B+Programs+for+Delta+%26+United" alt="Typing SVG" />
 
 ---
 
@@ -22,7 +22,7 @@
 **Recent Wins:**
 - ✈️ **$30M United Airlines Program** — Architected Kubernetes-based infrastructure supporting real-time aircraft operations
 - 🚀 **Delta Airlines Migration** — Led AWS on-premises-to-cloud migration with production-grade networking
-- 🤖 **Multi-Cluster AI Inference Platform** — Built Hermes orchestration managing distributed LLM inference across Mac mini + ROCm VM cluster
+- 🤖 **Multi-Cluster AI Inference** — Building distributed LLM serving across Mac mini + ROCm AMD VM cluster with llama.cpp, vLLM, SGLang, LMStudio
 - 🔐 **Enterprise SSO** — Designed Keycloak identity platform integrating customer Active Directory for 1000+ users
 
 </div>
@@ -32,7 +32,7 @@
 ## 🛠️ Technical Expertise
 
 ### 🤖 AI/ML Infrastructure & Multi-Cluster Orchestration
-* **Distributed AI Inference:** Self-hosted multi-cluster LLM serving with **llama.cpp, vLLM, SGLang, LMStudio, LiteLLM** orchestrated via custom **Hermes orchestration platform**
+* **Distributed AI Inference:** Multi-cluster LLM serving with **llama.cpp, vLLM, SGLang, LMStudio, LiteLLM** frameworks
 * **Multi-Device GPU Acceleration:** Mac mini (LMStudio) + AMD ROCm VM cluster for diverse inference workloads, quantization strategies, and model optimization
 * **AI Stack Architecture:** Docker containerization, Proxmox virtualization, NFS/ZFS hybrid storage, VRAM management, and ComfyUI image generation pipelines
 * **Production Observability:** Real-time metrics (Prometheus, Grafana, Loki) for hardware health, latency analysis, model throughput, and inference SLAs
@@ -56,20 +56,10 @@
 
 ## 📂 Featured Projects
 
-### 🤖 [Hermes Orchestration](https://github.com/nicolasnkGH/hermes-orchestration) | Multi-Cluster AI Inference Platform
-*Custom orchestration engine managing distributed LLM inference across heterogeneous hardware (Mac mini + ROCm AMD GPU cluster).*
-* **Tech Stack:** Python · Kubernetes · llama.cpp · vLLM · SGLang · LiteLLM · Prometheus · Grafana
-* **Highlights:** Multi-backend routing (LMStudio, vLLM, SGLang), load balancing across clusters, model quantization optimization, unified inference API
-
-### 🧠 [AI Memory Bank](https://github.com/nicolasnkGH/ai-memory-bank) | Infrastructure Knowledge Management
-*Centralized tracking and context synchronization for multi-project AI assistant continuity across machines and development sessions.*
-* **Tech Stack:** Python · JSON · Git workflow · Cline/Claude integration
-* **Highlights:** Project memory sync, progress tracking, AI assistant context preservation, architecture & dependency documentation
-
 ### 🔭 [AI Stack](https://github.com/nicolasnkGH/ai-stack) | Self-Hosted GPU-Accelerated AI Platform
 *Production-grade containerized platform for operating and evaluating GPU-accelerated AI workloads at scale.*
 * **Tech Stack:** Docker Compose · Kubernetes · Proxmox VE · NVIDIA CUDA · NFS/ZFS hybrid storage · OpenWebUI · ComfyUI
-* **Highlights:** Ollama LLM engine, RAG via SearXNG, image generation workflows, OpenAI-compatible APIs, Cloudflare Tunnel secure access
+* **Highlights:** Ollama LLM engine, RAG via SearXNG, image generation workflows, OpenAI-compatible APIs, Cloudflare Tunnel secure access, quantization optimization
 
 ### 🔭 [StarGazer](https://github.com/nicolasnkGH/stargazer) | Personal Observatory Dashboard
 *Serverless stargazing platform with real-time weather AI evaluation and astrophotography FOV planning.*
@@ -85,6 +75,11 @@
 *Production-grade hybrid networking architecture simulating Fortune 500 enterprise infrastructure at home lab scale.*
 * **Tech Stack:** Proxmox VE · UniFi · Technitium DNS · Cloudflare Tunnel · Apache Guacamole · Nginx Proxy Manager
 * **Highlights:** Split-horizon DNS, centralized SSL management, private access tunnels, network segmentation, disaster recovery scenarios
+
+### 📊 [Monitoring Stack](https://github.com/nicolasnkGH/monitoring-stack) | Full Observability Platform
+*Prometheus, Grafana, and Alertmanager deployment for centralized monitoring and visualization of infrastructure and applications.*
+* **Tech Stack:** Prometheus · Grafana · Alertmanager · Node Exporter · Shell scripting
+* **Highlights:** Multi-source metrics collection, custom dashboards, alerting rules, visualization pipelines
 
 ---
 
@@ -156,8 +151,8 @@
 
 ## 🚀 Current Focus
 
-* 🎯 Building multi-cluster AI inference systems with distributed orchestration
-* 🤖 Optimizing quantization strategies across heterogeneous hardware (Mac mini, ROCm, CUDA)
+* 🎯 Building multi-cluster AI inference systems across heterogeneous hardware (Mac mini, ROCm AMD GPU)
+* 🤖 Optimizing quantization strategies for diverse LLM deployment frameworks
 * ☁️ Scaling Kubernetes platforms for enterprise clients
 * 🔐 Zero Trust security architecture implementation
 * 📊 Building observability-first infrastructure
